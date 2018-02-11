@@ -1,0 +1,6 @@
+export default {
+  'UPDATE_SELECTED': 'UPDATE_SELECTED',
+  'NEXT_PAGE': 'NEXT_PAGE',
+  'ADD_DATA': 'ADD_DATA',
+  'UPDATE_DATA': 'UPDATE_DATA'
+};
